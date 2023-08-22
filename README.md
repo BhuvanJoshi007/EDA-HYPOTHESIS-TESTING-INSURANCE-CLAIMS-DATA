@@ -19,28 +19,33 @@ the data based on the customer ID column.
 appropriate value. (mean for continuous and mode for categorical)
 7. Calculate the age of customers in years. Based on the age, categorize the
 customers according to the below criteria
+
 Children < 18
+
 Youth 18-30
+
 Adult 30-60
+
 Senior > 60
-8. What is the average amount claimed by the customers from various
+
+9. What is the average amount claimed by the customers from various
 segments?
-9. What is the total claim amount based on incident cause for all the claims
+10. What is the total claim amount based on incident cause for all the claims
 that have been done at least 20 days prior to 1st of October, 2018.
-10. How many adults from TX, DE and AK claimed insurance for driver
+11. How many adults from TX, DE and AK claimed insurance for driver
 related issues and causes?
-11. Draw a pie chart between the aggregated value of claim amount based
+12. Draw a pie chart between the aggregated value of claim amount based
 on gender and segment. Represent the claim amount as a percentage on
 the pie chart.
-12. Among males and females, which gender had claimed the most for any
+13. Among males and females, which gender had claimed the most for any
 type of driver related issues? E.g. This metric can be compared using a
 bar chart
-13. Which age group had the maximum fraudulent policy claims? Visualize
+14. Which age group had the maximum fraudulent policy claims? Visualize
 it on a bar chart.
-14. Visualize the monthly trend of the total amount that has been claimed
+15. Visualize the monthly trend of the total amount that has been claimed
 by the customers. Ensure that on the “month” axis, the month is in a
 chronological order not alphabetical order.
-15. What is the average claim amount for gender and age categories and
+16. What is the average claim amount for gender and age categories and
 suitably represent the above using a facetted bar chart, one facet that
 represents fraudulent claims and the other for non-fraudulent claims.
 Based on the conclusions from exploratory analysis as well as suitable
@@ -48,10 +53,10 @@ statistical tests, answer the below questions. Please include a detailed
 write-up on the parameters taken into consideration, the Hypothesis
 testing steps, conclusion from the p-values and the business implications of
 the statements.
-16. Is there any similarity in the amount claimed by males and females?
-17. Is there any relationship between age category and segment?
-18. The current year has shown a significant rise in claim amounts as
+17. Is there any similarity in the amount claimed by males and females?
+18. Is there any relationship between age category and segment?
+19. The current year has shown a significant rise in claim amounts as
 compared to 2016-17 fiscal average which was $10,000.
-19. Is there any difference between age groups and insurance claims?
-20. Is there any relationship between total number of policy claims and the
+20. Is there any difference between age groups and insurance claims?
+21. Is there any relationship between total number of policy claims and the
 claimed amount?
